@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pvparenas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pvparenas_jar</output-path>
+    <root id="archive" name="pvparenas.jar">
+      <element id="module-output" name="pvparenas" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+name: pvparenas
+version: '${project.version}'
+main: me.color.pvparenas.Pvparenas
+api-version: '1.20'
+
+commands:
+  queue:
+    description: "Join queue"
+  leave:
+    description: "Leave queue"
+  create:
+    description: "Create arena"
+  list:
+    description: "Print all arenas"
